@@ -7,4 +7,3 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Siti fatimah, [https://github.com/Fatim2022/DremDayInvate.git]
